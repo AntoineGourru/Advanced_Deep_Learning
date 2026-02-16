@@ -16,8 +16,8 @@
 - TD 11 (Séance 12 - 13) Learning to Play Pong
 
 ### Part 3 - Generative Modeling
-- TD 12 (Séance 14-15) VAE 
-- TD 13 (Séance 16-17) GAN 
+- TD 12 (Séance 14) VAE 
+- TD 13 (Séance 15-16) GAN 
 
 ## To DO
 - TD 8 (Antoine)
@@ -27,4 +27,4 @@
 - TD 11 (Antoine)
 - TD 12 (Antoine)
 - TD 13 (Antoine)
-- Eval 2 (Séance 18) (Haifei) 
+- Eval 2 (Séance 17) (Haifei) 

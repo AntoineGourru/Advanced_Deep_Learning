@@ -13,7 +13,7 @@
 ### Part 2 - Deep Reinforcement Learning
 - TD 9 (Séance 10) Intro 
 - TD 10 (Séance 11) Maze Solving 
-- TD 11 (Séance 12 - 13) Learning to PLayPong
+- TD 11 (Séance 12 - 13) Learning to Play Pong
 
 ### Part 3 - Generative Modeling
 - TD 12 (Séance 14-15) VAE (Bob)

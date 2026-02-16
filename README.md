@@ -1,5 +1,6 @@
-# Adavanced_Deep_Learning
+# Adavanced Deep Learning Course
 
+### Part 1 - Deep Learning in Pytorch : overview of architectures 
 - TD1 (Séance 1) Pytorch
 - TD2 (Séance 1) Newton
 - TD3 (Séance 2) MLP
@@ -7,8 +8,16 @@
 - TD5 (Séance 4) CNN
 - TD6 (Séance 5) RNN
 - TD 7 (Séance 6 et 7) Transformer
+- TD 8 (Séance 8) Distillation / Compression (Antoine)
+- 
+### Part 2 - Deep Reinforcement Learning
+- TD 9 (Séance 10) RL INtro (Bob)
+- TD 10 (Séance 11) RL Maze (Bob)
+- TD 11 (Séance 12 - 13) RL Pong (Bob)
 
-
+### Part 3 - Generative Modeling
+- TD 12 (Séance 14-15) VAE (Bob)
+- TD 13 (Séance 16-17) GAN (Bob)
 
 ## To DO
 - TD 8 (Séance 8) Distillation / Compression (Antoine)

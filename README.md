@@ -27,3 +27,7 @@
 Séance 21-24 
 
 ## To DO
+
+Haifei : Séance 11-12 et Partie 3
+Antoine : le reste
+2 : projet à préparer 

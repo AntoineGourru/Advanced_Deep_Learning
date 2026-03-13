@@ -1,5 +1,13 @@
 # Adavanced Deep Learning Course
 
+## Lecture 
+
+[Part 1](https://docs.google.com/presentation/d/1isSKQXnvc9B1jXAgNhwb9KcRcLRK5gr0/edit?usp=sharing&ouid=101859594616326783064&rtpof=true&sd=true)
+
+[Part 2](https://www.overleaf.com/read/krpzznfkbvxs#a94fdd)
+
+[Part 3](https://www.overleaf.com/read/phbnqcfctkhc#2cc63b)
+
 ### Part 1 - Deep Learning in Pytorch : overview of architectures 
 - TD 1 (Séance 1) Pytorch
 - TD 2 (Séance 2) Newton

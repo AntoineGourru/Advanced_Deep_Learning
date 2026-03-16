@@ -39,3 +39,4 @@ Séance 21-24
 Haifei : Séance 11-12 et Partie 3
 Antoine : le reste
 2 : projet à préparer 
+TD3 : Plus guidé 
